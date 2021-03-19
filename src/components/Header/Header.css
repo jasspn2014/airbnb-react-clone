@@ -13,6 +13,7 @@
   height: 100px;
   object-fit: contain;
   margin-left: 20px;
+  cursor: pointer;
 }
 
 .header__center {
@@ -38,5 +39,5 @@
   align-items: center;
   justify-content: space-between;
   width: 16vw;
-  margin-right: 80px;
+  margin-right: 20px;
 }

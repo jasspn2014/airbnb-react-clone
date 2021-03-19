@@ -24,16 +24,18 @@ function Footer() {
           <li>Founders' Letter</li>
         </ul>
 
+         
         <ul className="menu">
           <li className="heading">COMMUNITY</li>
           <li>Diversity & Belonging</li>
           <li>Accessibility</li>
           <li>Airbnb Associates</li>
           <li>Frontline Stays</li>
-          <li>Guest Referraks</li>
-          <li>Aurbnb.org</li>
+          <li>Guest Referrals</li>
+          <li>Airbnb.org</li>
         </ul>
 
+        <hr /> 
         <ul className="menu">
           <li className="heading">HOST</li>
           <li>Host your home</li>
@@ -44,6 +46,7 @@ function Footer() {
           <li>Community Center</li>
         </ul>
 
+        <hr /> 
         <ul className="menu">
           <li className="heading">SUPPORT</li>
           <li>Our COVID-19 Response</li>
